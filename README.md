@@ -15,7 +15,6 @@ This tool allows users to encrypt and decrypt text using a custom key, with mode
 ✅ Default random key generator  
 ✅ Modern Bootstrap UI  
 ✅ Clean MVC architecture  
-✅ Portfolio-ready project  
 
 ---
 
