@@ -106,8 +106,7 @@ Portfolio project for developers
 👨‍💻 Author
 
 Mohammed Aadil
-ASP.NET Core Developer
-Kochi, India
+Software Engineer
 
 🔗 GitHub: https://github.com/moaadil10
 
